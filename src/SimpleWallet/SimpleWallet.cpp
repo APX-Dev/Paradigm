@@ -2,6 +2,7 @@
 // Copyright (c) 2014-2016, XDN developers
 // Copyright (c) 2014-2017, The Forknote developers
 // Copyright (c) 2016-2018, Karbo developers
+// Copyright (c) 2018-2018, Paradigm developers
 //
 // All rights reserved.
 // 
@@ -719,12 +720,12 @@ bool simple_wallet::init(const boost::program_options::variables_map& vm)
 	if (m_generate_new.empty() && m_wallet_file_arg.empty())
 	{
 		std::cout << "Nor 'generate-new-wallet' neither 'wallet-file' argument was specified.\nWhat do you want to do?\n";
-		std::cout << "O - open wallet\n";
-		std::cout << "G - generate new wallet\n";
-		std::cout << "I - import wallet from keys\n";
-		std::cout << "R - restore backup/paperwallet\n";
-		std::cout << "T - import tracking wallet\n";
-		std::cout << "E - exit\n";
+		std::cout << "o - open wallet\n";
+		std::cout << "g - generate new wallet\n";
+		std::cout << "i - import wallet from keys\n";
+		std::cout << "r - restore backup/paperwallet\n";
+		std::cout << "t - import tracking wallet\n";
+		std::cout << "e - exit\n";
 		
 		char c;
 		do
