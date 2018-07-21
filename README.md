@@ -8,9 +8,7 @@ This is the official repository of paradigm cryptocurrency, a new asset for anon
 ## Development Phase
 **The official release date is planned in early september 2018**
 
-Please don't mine or use the Paradigm blockchain for now, it creates false positives and many other problems.
-
-Keep in mind than the blockchain and the genesis block will be reset in august 2018.
+Please don't mine or use the Paradigm blockchain for now, it creates false positives and many other problems and keep in mind than the blockchain and the genesis block will be reset in august 2018.
 
 ## Compilation under Unix
 Before starting the compilation you have to install some packages that depend on your distribution.
