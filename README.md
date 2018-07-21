@@ -30,7 +30,7 @@ $ make -j7
 ## Compilation under Windows
 Under construction
 
-## Download Binaries
+## [Download binaries](https://github.com/APX-Dev/Paradigm/releases "Download binaries")
 There are actually two releases of Paradigm for [Windows](https://github.com/APX-Dev/Paradigm/releases/tag/v1.0-Win64 "Windows") and for [Unix](https://github.com/APX-Dev/Paradigm/releases/tag/v1.0-Unix "Unix")
 
 ## [Running a Full Node](https://github.com/APX-Dev/Paradigm/wiki/Running-a-Paradigm-Full-Node "Running a Full Node")
